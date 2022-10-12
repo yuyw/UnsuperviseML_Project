@@ -1,5 +1,5 @@
 # Unsupervise Machine Learning Project
-That is my project for course "Unsupervised Machine Learning" on Coursera Platform
+That is my project for course "Unsupervised Machine Learning" on Coursera Platform -- pca_lego.ipynb
 
 Project
 Optional: find your own data set
