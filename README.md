@@ -1,4 +1,4 @@
-# UnsuperviseML_Project
+# Unsupervise Machine Learning Project
 That is my project for course "Unsupervised Machine Learning" on Coursera Platform
 
 Project
